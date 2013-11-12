@@ -22,7 +22,7 @@ public class HelloBean implements Serializable {
     }
 
     public void setMessage(String message) {
-        this.message = message;
+        this.message = message ;
     }
 
     public void test() {
